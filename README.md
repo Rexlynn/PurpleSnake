@@ -2,7 +2,7 @@
 
 
 
-## Multi-Platform Mini Security Toolkit (Windows \& Linux)
+## Multi-Platform Mini Security Toolkit (Windows & Linux)
 
 
 
